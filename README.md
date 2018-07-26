@@ -11,12 +11,13 @@ Welcome on board mousaillon :)
 $ bundle install
 
 ### Tables created with ActiveRecord
-
+```
 ├── migrate
 │   ├── 20180725210244_create_courses
 │   └── 20180725210922_create_lessons
 ├── schema.rb
 └── seeds.rb
+```
 
 Thanks for your visit
 Fabrice moussaillon THP Lyon session 5
